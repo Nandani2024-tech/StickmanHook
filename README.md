@@ -21,7 +21,7 @@ This project allows you to:
 ## 🚀 Installation & Setup
 
 1. **Clone this repo:**  
-   `git clone <your-repo-url>`
+   `git clone https://github.com/Nandani2024-tech/StickmanHook.git`
 2. **Install dependencies:**  
    `pip install -r requirements.txt`
 3. **Open the Stickman Hook game** in your browser or as a desktop game.
